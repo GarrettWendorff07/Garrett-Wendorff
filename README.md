@@ -2,17 +2,20 @@
 
 # Hi, I'm Garrett Wendorff 
 
-I'm a Computer Science student focused on building my skills in Python, C#, SQL, and HTML/CSS.
+I'm a Computer Science student working towards building a strong foundation in programming. 
 
-## Currently Working On
-- CS50
+## Technologies I'm Learning 
+- Python
+- SQL
+- Html & CSS
+
+## Current Focus
+- Completing CS50 Course
+- Building a Portfolio Website
+
+## Projects
 - Portfolio Website
 
-## Featured Projects
-- Portfolio Website
-
-
-## Goals 
-- Build a strong portfolio
-- Improve problem solving skills
-- Prepare for career in computer science
+## Contact Information
+- Phone: 1-920-228-3067
+- Email: Gwendorff07@gmail.com 
